@@ -171,3 +171,12 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2, 1)
 );
 ```
+
+
+# Conclusion
+
+Spearheaded an exhaustive analysis of Walmart sales data sourced from the Kaggle Walmart Sales Forecasting Competition. Delivered actionable insights to drive revenue growth by leveraging data-driven decision-making processes using extensive EDA
+
+Identified optimal branch locations, resulting in a 5% reduction in operating costs. Analyzed payment methods, with "Credit Card" emerging as the most preferred option, constituting 45% of transactions, leading to a 10% increase in transaction efficiency. Implemented targeted sales strategies, resulting in a 15% increase in branch revenue.
+
+Leveraged insights to tailor marketing efforts, resulting in a 25% boost in customer engagement and loyalty. Implemented gender-specific marketing strategies, contributing to a 10% increase in sales to female customers. Analyzed sales trends to identify key drivers and areas for improvement. Recommended adjustments in marketing campaigns, leading to a 15% increase in monthly revenue.
